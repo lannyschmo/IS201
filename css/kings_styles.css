@@ -1,0 +1,53 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    text-decoration:solid;
+    color: rgb(111, 9, 136)
+    
+}
+
+.lists {
+    margin-left: 550px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -22px;
+}
+
+img {
+    display: block; 
+    margin: 0 auto; 
+}
+
+iframe {
+    display: block; 
+    margin: 0 auto; 
+}
+
+a {
+    display: block; /* Ensures the link behaves as a block-level element */
+    text-align: center; /* Aligns the content of the link to the center */
+    margin: 0 auto;
+}
+
+.starting {
+    background-color: rgb(198, 198, 198);
+}
+
+.darkpurple {
+    background-color: rgb(165, 125, 182);
+}
+
+.lightpurple {
+    background-color: rgb(220, 205, 245);
+}
+
+.tableauPlaceholder {
+    display: block; 
+    margin: 0 auto; 
+}
+
+.links {
+    color:azure;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+}
